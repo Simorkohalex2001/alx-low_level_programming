@@ -1,0 +1,48 @@
+0-preprocessor
+1-compiler
+100-intel
+-quote.c
+2-assembler
+hot fix on 2-assembler
+4 days ago
+3-name
+3-name script
+4 days ago
+4-puts.c
+4-puts.c file
+2 days ago
+5-printf.c
+5-printf.c file
+2 days ago
+6-size.c
+6-size.c file
+2 days ago
+README.md
+created readme files and 0x00-hello_world directory
+4 days ago
+a.out
+4-puts.c file
+2 days ago
+c
+created preprocessor, main.c and c files
+4 days ago
+cisfun
+3-name script
+4 days ago
+main.c
+1-compiler script
+2 days ago
+main.o
+1-compiler script
+2 days ago
+main.s
+100-intel script
+4 days ago
+q
+101-quote.c file
+4 days ago
+quote
+101-quote.c file
+4 days ago
+touch
+assembler script
